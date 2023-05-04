@@ -10,10 +10,10 @@ The EDA was conducted using the Python programming language and various data sci
 ## **Results**
 The EDA revealed several interesting insights into the data science salary landscape. Some of the key findings include:
 
-The average salary for a data scientist is around $137570 per year, but this varies significantly depending on factors such as company size, location, work year, and experience.
-Data scientists with specialized skills such as machine learning and big data tend to earn higher salaries than those without these skills.
+* The average salary for a data scientist is around $137570 per year, but this varies significantly depending on factors such as company size, location, work year, and experience.
+* Data scientists with specialized skills such as machine learning and big data tend to earn higher salaries than those without these skills.
 In both large and small companies, as well as medium-sized ones, full-time employees receive the highest pay, whereas part-time employees and freelancers are compensated at a lower rate compared to full-time employees and contractors.
-Employees who work remotely 50% of the time receive the lowest pay compared to those who work remotely 100% of the time, and this is consistent across all companies. The latter group of employees receive higher compensation than the former.
+* Employees who work remotely 50% of the time receive the lowest pay compared to those who work remotely 100% of the time, and this is consistent across all companies.    The latter group of employees receive higher compensation than the former.
 
 ## **Conclusion**
 Overall, the EDA provides valuable insights into the data science salary landscape and highlights the importance of factors such as work year, experience level, employment type, remote_ratio, company_location, company_size. in determining salaries. The project demonstrates the use of EDA techniques to explore and analyze complex datasets and can serve as a starting point for further research and analysis in this field.
